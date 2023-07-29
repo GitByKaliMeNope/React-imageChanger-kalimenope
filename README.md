@@ -5,8 +5,8 @@
 
 # Install instructions: 
 
-git clone https://github.com/GitByKaliMeNope/React-imageChanger-kalimenope \n
-cd React-imageChanger-kalimenope \n
-npm install \n
-npm start \n
+git clone https://github.com/GitByKaliMeNope/React-imageChanger-kalimenope <br>
+cd React-imageChanger-kalimenope <br>
+npm install <br>
+npm start 
 
