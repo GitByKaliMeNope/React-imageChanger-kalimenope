@@ -1,5 +1,5 @@
 import './App.css';
-import ImageChanger from './components/imageChanger';
+import ImageChanger from './imageChanger';
 import PropTypes  from 'prop-types';
 
 const Images = [
